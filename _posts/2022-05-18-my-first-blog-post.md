@@ -1,3 +1,8 @@
+---
+title: "First Blog Post"
+date: 2022-05-18
+---
+
 # First Blog Post
 
 Hello World!
